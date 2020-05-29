@@ -1,25 +1,25 @@
 {
 	"name": "cra-template-rocketseat-advanced",
-	"version": "1.0.1",
+	"version": "1.0.3",
 	"description": "CRA plus redux, router, axios, styled components",
 	"main": "template.json",
 	"repository": {
-	  "type": "git",
-	  "url": "git+https://github.com/rafaumeu/cra-template-rocketseat-advanced.git"
+		"type": "git",
+		"url": "git+https://github.com/rafaumeu/cra-template-rocketseat-advanced.git"
 	},
 	"keywords": [
-	  "redux",
-	  "router",
-	  "axios",
-	  "styled-components",
-	  "history",
-	  "immer",
-	  "polished",
-	  "redux-saga"
+		"redux",
+		"router",
+		"axios",
+		"styled-components",
+		"history",
+		"immer",
+		"polished",
+		"redux-saga"
 	],
-	"author": "Jimmy McBride",
+	"author": "Rafael Dias Zendron",
 	"license": "MIT",
 	"bugs": {
-	  "url": "https://github.com/rafaumeu/cra-template-rocketseat-advanced/issues"
+		"url": "https://github.com/rafaumeu/cra-template-rocketseat-advanced/issues"
 	}
-  }
+}

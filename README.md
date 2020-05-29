@@ -1,4 +1,4 @@
-# Create React App Template - Rocketseat Advamced
+# Create React App Template - Rocketseat Advanced
 
 ## Índice
 
